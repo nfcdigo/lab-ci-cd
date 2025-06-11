@@ -23,7 +23,7 @@ jobs:
       run:
         shell: bash
         working-directory: app
-
+#
     steps:
       - name: Download do Repositório
         uses: actions/checkout@v4
